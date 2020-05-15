@@ -5,13 +5,7 @@ This is not a chess engine itself but it supports uci communication to chess eng
 
 ## Installation
 
-Just get the package via git and run 
-
-```bash
-dep ensure
-```
-
-dep should ensure the depended notnil/chess library is downloaded and put in the vendor folder as a dependency.
+go get github.com/cyberchu/ucichessplayer
 
 ## Usage
 
